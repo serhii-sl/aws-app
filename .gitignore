@@ -1,0 +1,12 @@
+*.d.ts
+node_modules
+.DS_Store
+.idea
+*.js
+!jest.config.js
+# CDK asset staging directory
+aws-infra/.cdk.staging/
+aws-infra/cdk.out/
+aws-infra/.env
+.env
+
